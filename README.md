@@ -1,4 +1,4 @@
-# Mars app - Materi 12 (Repository pattern and WorkManager)
+# Blur O Matic - Materi 12 (Repository pattern and WorkManager)
 
 ## Mata Kuliah : Praktik Pemrograman Mobile 2
 
